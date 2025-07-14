@@ -32,5 +32,6 @@ Simulated data with 500 orders
 - Python (data simulation)
 
 ---
+📥 [Download the Power BI file (.pbix)](Marketplace_Logistics_Analysis.pbix)
 
 Created by [Robson Caldeira](https://www.linkedin.com/in/robson-caldeira-a712a03a/)
