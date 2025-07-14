@@ -24,7 +24,7 @@ Simulated data with 500 orders
 📄 [`Marketplace_Logistics_Analysis_EN.csv`](data/Marketplace_Logistics_Analysis_EN.csv)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Screenshot](images/dashboard-preview.jpg)
 
 ## ⚙️ Tools Used
 - Power BI
